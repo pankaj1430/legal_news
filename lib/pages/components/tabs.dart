@@ -32,7 +32,6 @@ class Tabsbox extends StatelessWidget {
     );
   }
 }
-
 class Tobbox extends StatelessWidget {
   const Tobbox({super.key, required this.name, required this.img});
   final String name;
